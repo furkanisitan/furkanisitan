@@ -24,9 +24,6 @@
     <a href="https://stackoverflow.com/users/14810239" target="_blank">
         <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="14810239" height="45" width="45" />
     </a>
-    <a href="https://instagram.com/frknisitan" target="_blank">
-        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="frknisitan" height="30" width="30" />
-    </a>
     <a href="https://medium.com/@furkanisitan" target="_blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@furkanisitan" height="30" width="40" />
     </a>
